@@ -27,10 +27,10 @@ Before installing bots. please delete LiluluBot.json first so that the QR code c
 ```nodeja
 {
   namabot = 'LILULU-BOT'
-  ownerNumber = ["6285156724122@s.whatsapp.net"]
-  targetpc = 62838505090133
-  namaowner = FznAdmn
-  owner = 6285156724122@s.whatsapp.net
+  ownerNumber = ["628xxxxxxxx@s.whatsapp.net"]
+  targetpc = 628xxxxxxxxx
+  namaowner = Your Name
+  owner = 628xxxxxxxxx@s.whatsapp.net
 }
 ```
 ## Setting APIkey
