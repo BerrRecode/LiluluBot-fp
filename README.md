@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/84dYvnH/88ae68c16b70100441e86fb010b84e82.jpg" width="128" height="128">
+<img src="https://i.ibb.co/84dYvnH/88ae68c16b70100441e86fb010b84e82.jpg" width="200" height="200">
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Lilulu Bot-blue?colorA=%50CD29&colorB=%50CD29&style=for-the-badge"></a>
