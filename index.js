@@ -2801,11 +2801,13 @@ esceh = `❥ *info script bot*
 ├⊳⊳ Owner: ${namaowner}
 │
 └──┤Link Github├────❥
-  ├✜ Github LiluluBOT
+  ├✜ Github Lilulu-Bot
   ├✜ https://github.com/BerrRecode/
-  ├✜ Github SC bot(private)
-  ├✜ https://github.com/BerrRecode/lilulu-bot.git
-  └───────────────────⊳⊳⊳ `
+  ├✜ Github SC bot
+  ├✜ https://github.com/BerrRecode/LiluluBot-fp
+  └───────────────────⊳⊳⊳ 
+If you find bugs or error. please report to the OWNER Bot`
+
      buttons = [{buttonId:`${prefix}menu`,buttonText:{displayText:'BACK TO MENU'},type:1},
      {buttonId:`${prefix}infoowner`,buttonText:{displayText:'💎INFO OWNER'},type:1}]
   
