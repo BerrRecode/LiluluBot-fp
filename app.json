@@ -1,0 +1,7 @@
+{
+  "name": "lilulu-bot",
+  "description": "lilulu whatsapp bot build with nodejs",
+  "repository": "https://github.com/BerrRecode/lilulu-bot",
+  "logo": "https://i.ibb.co/84dYvnH/88ae68c16b70100441e86fb010b84e82.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot"]
+}
