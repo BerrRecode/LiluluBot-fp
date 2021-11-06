@@ -15,7 +15,7 @@
 ```
 
 ## Installation bot 
-Before installing bots. please delete Lilulu Bot.json first so that the QR code can appear
+Before installing bots. please delete LiluluBot.json first so that the QR code can appear
 
 ```bash
 > cd LiluluBot-fp
