@@ -23,13 +23,13 @@
 
 ## Settings
 
-```json
+```nodeja
 {
-  "namabot" = "LILULU-BOT"
-  "ownerNumber" = ["6285156724122@s.whatsapp.net"]
-  "targetpc" = "62838505090133"
-  "namaowner" = "FznAdmn"
-  "owner" = "6285156724122@s.whatsapp.net"
+  namabot = 'LILULU-BOT'
+  ownerNumber = ["6285156724122@s.whatsapp.net"]
+  targetpc = 62838505090133
+  namaowner = FznAdmn
+  owner = 6285156724122@s.whatsapp.net
 }
 ```
 ## Setting APIkey
@@ -45,7 +45,7 @@
 ## Deploy to Heroku
 if you want to deploy this project, don't forget to add buildpack heroku. buildpack link below:
 
-```json
+```nodejs
 nodejs = "https://github.com/heroku/heroku-buildpack-nodejs#latest"
 ffmpeg = "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
 imagemagick = "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
