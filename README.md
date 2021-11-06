@@ -34,7 +34,7 @@
 ```
 ## Setting APIkey
 
-```json
+```nodejs
 {
   LolKey = 'YOUR APIKEY HERE' 
   ZeksKey = 'YOUR APIKEY HERE' 
