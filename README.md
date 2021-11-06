@@ -25,11 +25,11 @@
 
 ```json
 {
-  namabot = 'LILULU-BOT'
-  ownerNumber = ["6285156724122@s.whatsapp.net"]
-  targetpc = '62838505090133'
-  namaowner = 'FznAdmn'
-  owner = '6285156724122@s.whatsapp.net'
+  "namabot" = "LILULU-BOT"
+  "ownerNumber" = ["6285156724122@s.whatsapp.net"]
+  "targetpc" = "62838505090133"
+  "namaowner" = "FznAdmn"
+  "owner" = "6285156724122@s.whatsapp.net"
 }
 ```
 ## Setting APIkey
