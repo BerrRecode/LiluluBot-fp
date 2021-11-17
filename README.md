@@ -27,14 +27,14 @@
 ## Clone this repo
 
 ```bash
-> git clone https://github.com/BerrRecode/lilulu-bot
+> git clone https://github.com/BerrRecode/LiluluBot-fp
 ```
 
 ## Installation bot 
 Before installing bots. please delete [`LiluluBot.json`](https://github.com/BerrRecode/lilulu-bot/blob/ac5ad9ae89d3dcc050b24779df4574afe7f84be0/LiluluBot.json) first so that the QR code can appear
 
 ```bash
-> git clone https://github.com/BerrRecode/lilulu-bot.git
+> git clone https://github.com/BerrRecode/LiluluBot-fp.git
 > cd lilulu-bot 
 > bash install.sh
 > npm start
@@ -45,7 +45,7 @@ Set your name, bot name, apikey, and anymore [`in here`](https://github.com/Berr
 
 
 ## Deploy to Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BerrRecode/lilulu-bot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BerrRecode/LiluluBot-fp/)
 
 if you want to deploy this project, don't forget to add buildpack heroku. buildpack link below:
 
@@ -59,7 +59,7 @@ if you want to deploy this project, don't forget to add buildpack heroku. buildp
 
 
 ## Deploy to railway.app 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FBerrRecode%2Flilulu-bot)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FBerrRecode%2FLiluluBot-fp)
 
 if you want to deploy this project to railway, please delete the command below in the [`Procfile in here`](https://github.com/BerrRecode/lilulu-bot/blob/ac5ad9ae89d3dcc050b24779df4574afe7f84be0/Procfile)
 
