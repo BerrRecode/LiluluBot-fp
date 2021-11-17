@@ -31,7 +31,7 @@
 ```
 
 ## Installation bot 
-Before installing bots. please delete [`LiluluBot.json`](https://github.com/BerrRecode/lilulu-bot/blob/ac5ad9ae89d3dcc050b24779df4574afe7f84be0/LiluluBot.json) first so that the QR code can appear
+Before installing bots. please delete [`LiluluBot.json`](https://github.com/BerrRecode/LiluluBot-fp/blob/ddc1957d48d7d250aa81bc1034ef9fa1550cf8e5/LiluluBot.json) first so that the QR code can appear
 
 ```bash
 > git clone https://github.com/BerrRecode/LiluluBot-fp.git
@@ -41,7 +41,7 @@ Before installing bots. please delete [`LiluluBot.json`](https://github.com/Berr
 ```
 
 ## Settings
-Set your name, bot name, apikey, and anymore [`in here`](https://github.com/BerrRecode/lilulu-bot/blob/5a9ef40d6aa12186d0c8aeb1f264b784f7814c60/nyetting.json)
+Set your name, bot name, apikey, and anymore [`in here`](https://github.com/BerrRecode/LiluluBot-fp/blob/ddc1957d48d7d250aa81bc1034ef9fa1550cf8e5/nyetting.json)
 
 
 ## Deploy to Heroku 
@@ -61,7 +61,7 @@ if you want to deploy this project, don't forget to add buildpack heroku. buildp
 ## Deploy to railway.app 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FBerrRecode%2FLiluluBot-fp)
 
-if you want to deploy this project to railway, please delete the command below in the [`Procfile in here`](https://github.com/BerrRecode/lilulu-bot/blob/ac5ad9ae89d3dcc050b24779df4574afe7f84be0/Procfile)
+if you want to deploy this project to railway, please delete the command below in the [`Procfile in here`](https://github.com/BerrRecode/LiluluBot-fp/blob/ddc1957d48d7d250aa81bc1034ef9fa1550cf8e5/Procfile)
 
 ```bash
 > && npm i delay
@@ -73,7 +73,8 @@ if you want to deploy this project to railway, please delete the command below i
 * Hexa
 * LolHuman
 * Zeks API
-* Dappa Uhy
+* Dappa Uhy 
+* KurrXD
 * And all bot creators
 
 ## Connect with me 👋
