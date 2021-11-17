@@ -1,4 +1,4 @@
-FROM nikolaik/python-nodejs:latest
+FROM node:16.10.0-buster
 
 RUN apt-get update && \
   apt-get install -y \
@@ -6,24 +6,16 @@ RUN apt-get update && \
   chromium \
   ffmpeg \
   wget \
-  mc \
-  imagemagick && \
+  imagemagick \
+  graphicsmagick \
+  webp \
+  mc && \
   rm -rf /var/lib/apt/lists/*
 
 COPY package.json .
-RUN npm install
-#RUN npm install -g npm-check-updates
-#RUN ncu --upgrade
-
-RUN mkdir /lilulu-bot
-WORKDIR /lilulu-bot
-COPY . /lilulu-bot
-RUN python3 -m pip install -r /lilulu-bot/requirements.txt
-ENV TZ=Asia/Jakarta
-RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
-
-RUN ls
-
-EXPOSE 5000
-
-CMD ["npm", "start"]
+RUN npm install -g npm@8.1.3
+RUN npm install -g pm2
+RUN npm update
+COPY . .
+RUN pm2 save
+CMD ["pm2-runtime", "main.js"]`

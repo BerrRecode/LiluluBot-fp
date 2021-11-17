@@ -1,0 +1,21 @@
+{
+"autorespon" : false, //JANGAN DIRUBAH
+"antidelete" : false, //JANGAN DIRUBAH
+"banChats" : true, //JANGAN DIRUBAH
+"offline" : false, //JANGAN DIRUBAH
+"namabot" : "ini untuk nama bot", //NAMA BOT
+"ownerNumber" : ["62xxxxxxxxx@s.whatsapp.net"], //NOMOR LU
+"targetpc" : "NOMOR BOT", //TERSERAH
+"namaowner" : "NAMA LU", //NAMA LU
+"owner" : "62xxxxxxxx@s.whatsapp.net", //NOMOR LU
+"owmerno" : "62xxxxxxx", //NOMOR LU
+"botnom" : "62xxxxxxxx@s.whatsapp.net", //UBAH JADI NOMOR BOT LU
+"fake" : "𝙷𝚎𝚕𝚕𝚘\n𝙸𝚖 𝚕𝚒𝚕𝚞𝚕𝚞𝚋𝚘𝚝", //ini fake
+"wmnya" : "Powered by: BrCode", //UBAH TERSERAH
+"LolKey" : "YOUR APIKEY", //link API ada di inde.js
+"ZeksKey" : "YOUR APIKEY", //link API ada di inde.js
+"DapKey" : "YOUR APIKEY", //link API ada di inde.js
+"ApiSite" : "YOUR APIKEY", //link API ada di inde.js
+"ApiPikwy" : "YOUR APIKEY", //link API ada di inde.js
+"SsMcn" : "YOUR APIKEY" //link API ada di inde.js
+}

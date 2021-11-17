@@ -16,6 +16,7 @@
     "cfonts": "^2.9.0",
     "child_process": "^1.0.2",
     "crypto": "^1.0.1",
+    "delay": "^5.0.0",
     "dotenv": "^8.2.0",
     "emoji-api": "^1.0.2",
     "file-type": "^16.3.0",
