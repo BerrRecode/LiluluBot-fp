@@ -47,15 +47,19 @@ Set your name, bot name, apikey, and anymore [`in here`](https://github.com/Berr
 ## Deploy to Heroku 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BerrRecode/LiluluBot-fp/)
 
-if you want to deploy this project, don't forget to add buildpack heroku. buildpack link below:
+if you want to deploy this script to the kurroku application that uses the API from Heroku, please download the apk by [`clicking here`](https://cutt.ly/4Tnf548).<br>
+The application was created by kurrXD using the API from HEROKU. so it's the same as using HEROKU only it looks more attractive.
+this is link youtube [`kurrXD OFFICIAL`](https://youtube.com/c/KurrXd)
 
-*nodejs [`CLICK HERE`](https://github.com/heroku/heroku-buildpack-nodejs#latest)
+before deploying to HEROKU. Don't forget to add the heroku buildpack. the link is below:
 
-*ffmpeg [`CLICK HERE`](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
+* nodejs [`CLICK HERE`](https://github.com/heroku/heroku-buildpack-nodejs#latest)
 
-*imagemagick [`CLICK HERE`](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)
+* ffmpeg [`CLICK HERE`](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
 
-*neofetch [`CLICK HERE`](https://github.com/sasukeuchiha912/heroku-buildpack-neofetch)
+* imagemagick [`CLICK HERE`](https://github.com/DuckyTeam/heroku-buildpack-imagemagick)
+
+* neofetch [`CLICK HERE`](https://github.com/sasukeuchiha912/heroku-buildpack-neofetch)
 
 
 ## Deploy to railway.app 
